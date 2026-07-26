@@ -6,7 +6,7 @@
 
 # 🕹️ Мои игры:
 <a href="https://late-q.itch.io/">
-  <img src="https://static.itch.io/images/badge-color.svg" alt="ITCH.IO" width="160" height="40">
+  <img src="https://static.itch.io/images/badge-color.svg" alt="ITCH.IO" width="160" height="60">
 </a>
 
 # 💻 Стек технологий:
