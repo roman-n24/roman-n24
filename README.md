@@ -1,8 +1,9 @@
 # Роман
+## Frontend-разработчик <br/>
 
-⚛️ Frontend-разработчик <br/>
-💻 Разрабатываю реактивные Single Page приложения на JavaScript
-🎮 Есть опыт разработки игр с 2023 по 2024 год
+💻 Разрабатываю реактивные Single Page приложения на JavaScript <br/>
+🎮 Есть опыт разработки игр с 2023 по 2024 год <br/>
+🎓 Проходил курсы в онлайн-школе [PurpleSchool](https://purpleschool.ru/)
 
 # 🕹️ Мои игры:
 <a href="https://late-q.itch.io/">
